@@ -2,9 +2,9 @@
 
 This repository features two small hacks that I made on the morning of Pi Day 2016.
 
-<br>
+## Projects
 
-## Pi1
+### `Pi1`
 
 `Pi1` features the derivation of pi using the ratio between the area of a circle and the smallest square that bounds the circle.
 
@@ -12,15 +12,11 @@ A real life experiment employing this strategy to derive pi would be to drop dar
 
 ![Pi1 Screenshot](/screenshots/pi1.png?raw=true "Pi1 Screenshot")
 
-<br>
-
-## Pi2
+### `Pi2`
 
 'Pi2' features the derivation of pi using Buffon's needle drop experiment.
 
 ![Pi2 Screenshot](/screenshots/pi2.png?raw=true "Pi2 Screenshot")
-
-<br>
 
 ## Asymptotic Convergence
 
